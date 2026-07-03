@@ -9,7 +9,7 @@ The goal is to offer an accessible, transparent, and methodologically rigorous t
 ## 📊 Features
 
 - Selection of **state**, **year**, and **grade** (4th and 8th grades)
-- *Average Scale Scores**
+- **Average Scale Scores**
 - Comparison between states
 - Interactive table (DT)
 - Download of filtered data
