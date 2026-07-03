@@ -37,7 +37,7 @@ The goal is to offer an accessible, transparent, and methodologically rigorous t
 
 ---
 
-## Repository Structure
+## 📁 Repository structure
 <img width="196" height="175" alt="Screenshot 2026-07-02 222800" src="https://github.com/user-attachments/assets/6465dd27-9a78-4fa1-9174-85d906180180" />
 
 
@@ -73,7 +73,5 @@ Educator, Researcher and Data Scientist
 LinkedIn: https://www.linkedin.com/in/priscila-neves-faria
 
 
-
 ---
 
-## 📁 Repository structure
