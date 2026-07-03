@@ -65,7 +65,7 @@ The dashboard will open automatically in your browser.
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
 Priscila Neves Faria, Ph.D.  
 Educator, Researcher and Data Scientist
