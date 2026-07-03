@@ -19,8 +19,6 @@ The goal is to offer an accessible, transparent, and methodologically rigorous t
 
 ## 📄 Database used
 
-### **NAEP Data Service API**
-
 - This dashboard uses exclusively public data made available by official United States agencies. Data can be accessed through the NAEP Data Service API, available at the NAEP Data Explorers homepage: https://www.nationsreportcard.gov/ndecore/xplore/NDE
 - All data used is open, free, and publicly accessible, following the transparency guidelines of NCES and the Department of Education. No sensitive, private, or restricted information is used in this project.
 - Results by state (jurisdiction), year, and grade
