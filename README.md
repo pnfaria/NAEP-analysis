@@ -17,7 +17,7 @@ The goal is to offer an accessible, transparent, and methodologically rigorous t
 
 ---
 
-## 📄 Databases used
+## 📄 Database used
 
 ### **NAEP Data Service API**
 
